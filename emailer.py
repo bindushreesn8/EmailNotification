@@ -13,7 +13,7 @@ s.login("dbcpolarbear@gmail.com", "sdguyoyuvnnqdyhw")
 message = "Hello Surendra Sir, how you are doing??, Have a good Day"
 
 # sending the mail
-s.sendmail("dbcpolarbear@gmail.com", "surendra.edcs@gmail.com", message)
+s.sendmail("dbcpolarbear@gmail.com", "sevaopsb@gmail.com", message)
 
 # terminating the session
 s.quit()
